@@ -181,6 +181,7 @@ The RESTful API is implemented using Flask and includes three main endpoints:
     
 This is how API is including endpoints for basic operations and returning predictions for decision-making.<br>
 (I can share my postman collection if your mail is provided).<br>
+NOTE- 'ModelTraining.ipynb' is for presentation purpose only to show how I trained my model. 'PredictiveAnalysis.ipynb' is the only file to run for both flask and model implementation.<br>
 I hope this project showcases my ability to integrate machine learning and API development effectively. Thank you for evaluating my work!
 
 
